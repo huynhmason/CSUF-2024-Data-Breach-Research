@@ -1,0 +1,67 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf
+As required by section 13402(e)(4) of the HITECH Act, the Secretary must post a list of breaches of unsecured protected health information affecting 500 or more individuals. The following breaches have been reported to the Secretary:
+## Cases Currently Under Investigation
+This page lists all breaches reported within the last 24 months that are currently under investigation by the Office for Civil Rights.
+ 
+
+```{r echo = FALSE}
+breach_report <- read.csv("breach_report.csv")
+library(tidyverse)
+```
+
+
+```{r}
+colnames(breach_report)
+```
+
+```{r}
+sum(is.na(breach_report$Web.Description))
+#none of the observations have a web description...
+```
+
+From Chat GPT:
+
+In the context of breaches reported to the Office for Civil Rights (OCR), the variable "Business Associate Present" refers to whether a business associate (BA) was involved in the breach incident. 
+
+A business associate is a person or entity that performs certain functions or activities on behalf of, or provides certain services to, a covered entity that involves the use or disclosure of protected health information (PHI). Under the Health Insurance Portability and Accountability Act (HIPAA), covered entities are typically healthcare providers, health plans, and healthcare clearinghouses.
+
+When a covered entity engages a business associate to perform services or activities involving PHI, they are required to have a written contract or other arrangement in place that outlines how the business associate will safeguard the PHI. If a breach of PHI occurs while it's under the control of a business associate, both the covered entity and the business associate may be held responsible.
+
+So, in the context of breaches reported to the OCR, the variable "Business Associate Present" indicates whether a business associate was involved in the breach incident. If the value is "yes," it means that a business associate was involved in some capacity, and if it's "no," it means that a business associate was not involved. This distinction is significant for understanding the extent of responsibility and potential liability for the breach.
+```{r}
+ggplot(breach_report, aes(x = Business.Associate.Present)) + 
+  geom_bar()
+```
+In about 300 breaches, a business associate was involved in some capacity. What does this involvement entail? This is out of the scope of the dataset, so this means asking the Office of Civil Rights. 
+
+```{r}
+breach_report |> 
+  ggplot(aes(x = Location.of.Breached.Information)) + 
+  geom_bar()
+#x-axis looks ugly; the labels overlay each other
+```
+
+```{r}
+library(DataExplorer)
+```
+
+```{r}
+create_report(breach_report)
+breach_report_new <- drop_columns(breach_report, "Web.Description") #to complete correlation analysis and pca
+create_report(breach_report_new)
+```
+
+```{r}
+ggplot(breach_report, aes(y = State, x = Individuals.Affected, color = Covered.Entity.Type)) +
+  geom_point()
+
+ggplot(breach_report, aes(y = Covered.Entity.Type)) + 
+  geom_bar()
+
+filter(breach_report, Covered.Entity.Type == "")
+```
+

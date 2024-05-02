@@ -1,0 +1,191 @@
+Company,Country,Month,Data Compromised,Sector,Method,Attack Vector,Data Sensitivity,Link
+1177 Care Guide,Sweden,February,"2,700,000.00",Healthcare,Third-party,Poor Security,PHI,https://computersweden.idg.se/2.2683/1.714787/inspelade-samtal-1177-vardguiden-oskyddade-internet
+1to1help,India,May,"300,000.00",Healthcare,Misconfiguration,Exposed Database,PHI,https://www.databreaches.net/a-misconfigured-aws-bucket-exposed-personal-and-counseling-logs-of-almost-300000-indian-employees/
+3fun,Hong Kong,August,"1,500,000.00",App,Misconfiguration,Application Security,Personal,https://www.pentestpartners.com/security-blog/group-sex-app-leaks-locations-pictures-and-other-personal-details-identifies-users-in-white-house-and-supreme-court/
+Adobe Inc.,United States of America,October,"7,500,000.00",Tech,Misconfiguration,Exposed Database,Personal,https://www.comparitech.com/blog/information-security/7-million-adobe-creative-cloud-accounts-exposed-to-the-public/
+AgusiQ-Torrents.pl,Poland,September,"90,478.00",Web,Hacked,,Online,https://haveibeenpwned.com/PwnedWebsites
+Air New Zealand,New Zealand,August,"100,000.00",Airline,Hacked,Phishing,Personal,https://ia.acs.org.au/article/2019/air-new-zealand-staffer-falls-for-phishing-attack.html
+Amadeus IT Group,Israel,May,"15,000,000.00",Hospitality,Hacked,SQL Injection,Personal,https://www.haaretz.com/israel-news/.premium-hacker-reveals-breach-exposing-flight-histories-of-netanyahu-family-other-israelis-1.7274845
+AMC Networks,United States of America,May,"1,615,360.00",Other,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/amc-inadvertently-exposed-its-subscribers-database-for-sundance-now-and-shudder-services/
+American Medical Collection Agency,United States of America,February,"20,000,000.00",Healthcare,Hacked,,Financial,https://geminiadvisory.io/amca-largest-medical-breach/
+Armor Games,United States of America,January,"10,604,307.00",Gaming,Hacked,,Personal,https://techraptor.net/content/armor-games-data-breach-january-2019
+ArtValue,France,June,"157,692.00",Web,Misconfiguration,Exposed Text File,Online,https://haveibeenpwned.com/PwnedWebsites
+Australian National University,Australia,June,"200,000.00",Education,Hacked,Zero Day Attack,Personal,https://www.anu.edu.au/news/all-news/anu-releases-detailed-account-of-data-breach
+Authentic Jobs,United States of America,October,"221,130.00",Web,Misconfiguration,Exposed Database,Personal,https://www.cisomag.com/recruitment-sites-exposes-250000-resumes-online/
+Best Western Hotels & Resorts Group,United States of America,September,1.00,Hospitality,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/us-travel-military-leak/
+BlackSpigotMC,United States of America,July,"140,029.00",Web,Hacked,,Personal,https://haveibeenpwned.com/PwnedWebsites
+Bodybuilding.com,United States of America,April,"7,000,000.00",Web,Hacked,Phishing,Personal,https://www.appknox.com/blog/top-cybersecurity-data-breaches-2019
+BreedReady,China,March,"1,800,000.00",Web,Misconfiguration,Exposed Database,Personal,https://www.theguardian.com/world/2019/mar/11/china-database-lists-breedready-status-of-18-million-women
+BriansClub,United States of America,October,"26,000,000.00",Web,Hacked,,Financial,https://krebsonsecurity.com/2019/10/briansclub-hack-rescues-26m-stolen-cards/
+British American Tobacco (BAT) - YOUniverse,Romania,December,1.00,Retail,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-bat-romania-leak/
+Bulgarian National Revenue Agency,Bulgaria,July,"5,000,000.00",Government,Hacked,,Personal,https://nap.bg/news?id=3990
+Cadlin,Brazil,October,"1,185,000.00",Healthcare,Misconfiguration,Exposed Database,PHI,https://www.wizcase.com/blog/medical-breaches-research/
+CafePress,United States of America,February,"23,205,290.00",Retail,Hacked,,Personal,https://www.forbes.com/sites/daveywinder/2019/08/20/data-breaches-expose-41-billion-records-in-first-six-months-of-2019/#7def6eebbd54
+Calcioshop.it,Italy,September,"408,995.00",Retail,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/large-italian-online-shop-exposed-customers-details/
+Camgirl Sites,Spain,November,1.00,Web,Misconfiguration,Exposed Database,Personal,https://techcrunch.com/2019/11/03/camgirl-network-exposed-millions-users/
+Canva,Australia,May,"137,272,116.00",Web,Hacked,,Personal,https://support.canva.com/contact/customer-support/may-24-security-incident-faqs/
+Capital One,United States of America,July,"106,000,000.00",Financial,Hacked,,Financial,https://www.businessinsider.com/capital-one-data-hacked-by-seattle-woman-affecting-millions-2019-7
+Cashkaro,India,August,"2,500,000.00",Financial,Misconfiguration,Exposed Database,Personal,https://www.safetydetectives.com/blog/pouringpounds-leak-report/
+Cayman National Bank,Isles of Man,November,1.00,Financial,Hacked,,Financial,https://www.caymannational.im/news/banking/data-theft-at-cayman-national-in-the-isle-of-man
+Cebuana Lhuillier,Philippines,January,"900,000.00",Financial,Hacked,,Personal,https://news.abs-cbn.com/business/01/19/19/over-900000-affected-by-cebuana-lhuillier-data-breach
+CenturyLink,United States of America,September,"2,800,000.00",Telecoms,Misconfiguration,Exposed Database,Personal,https://www.comparitech.com/blog/information-security/centurylink-data-leak/
+Checkers & Rally,United States of America,May,1.00,Hospitality,Hacked,Malware,Financial,https://www.zdnet.com/article/checkers-restaurant-chain-discloses-card-breach/
+Chile Citizens,Chile,July,"14,300,000.00",Government,Misconfiguration,Exposed Database,Personal,https://www.zdnet.com/article/voter-records-for-80-of-chiles-population-left-exposed-online/
+Choice Hotels,United States of America,August,"700,000.00",Hospitality,Third-party,Exposed Database,Personal,https://www.comparitech.com/blog/vpn-privacy/choice-hotels-data-leak/
+Chtrbox,India,May,"49,000,000.00",Tech,Misconfiguration,Exposed Database,Online,https://www.bbc.com/news/world-asia-india-48347592
+ClearDent,Canada,October,"60,000.00",Healthcare,Misconfiguration,Exposed Database,PHI,https://www.wizcase.com/blog/medical-breaches-research/
+Clover Sites,United States of America,May,"65,800.00",Web,Misconfiguration,Exposed Database,Financial,https://securitydiscovery.com/cloversites/
+Club Penguin Rewritten,United Kingdom,July,"4,007,909.00",Gaming,Hacked,,Personal,https://nakedsecurity.sophos.com/2019/08/02/4-million-club-penguin-rewritten-accounts-exposed-in-breach/
+Comodo,United States of America,October,"170,000.00",Web,Hacked,,Personal,https://www.bleepingcomputer.com/news/security/comodo-forums-breached-data-of-over-170-000-users-up-for-grabs/
+Conor,South Africa,December,"1,000,000.00",Tech,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-conor-leak/
+Cracked.to,United States of America,July,"749,161.00",Web,Hacked,,Personal,https://haveibeenpwned.com/PwnedWebsites
+Credia.ge,Georgia,August,"142,571.00",Financial,Misconfiguration,Exposed Database,Financial,https://securitydiscovery.com/credit-agency-exposed-thousands-of-customer-records/
+Credit Union Australia,Australia,September,"92,000.00",Financial,Hacked,,Financial,https://www.smh.com.au/business/banking-and-finance/payid-in-new-breach-affecting-customers-at-big-four-banks-20190821-p52jby.html
+Dalili,Saudi Arabia,February,"5,000,000.00",Telecoms,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/dalil-data-breach/
+Datacamp,United States of America,February,"700,000.00",Web,Hacked,,Online,https://www.databreaches.net/datacamp-notifies-users-of-hack-forces-password-reset/
+Dealer Deals,United States of America,August,"198,000,000.00",Web,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/dealer-leads/
+Deardorff Communications,United States of America,December,"261,300.00",Telecoms,Misconfiguration,Exposed Database,Personal,https://techcrunch.com/2019/12/04/sprint-contractor-cell-phone-bills-exposed/
+DeepThinkHealth,United States of America,October,"700,000.00",Healthcare,Misconfiguration,Exposed Database,PHI,https://www.wizcase.com/blog/medical-breaches-research/
+Demon Forums,United States of America,July,"52,623.00",Web,Hacked,,Online,https://www.elevenpaths.com/informe-de-investigacion-fuga-de-informacion-de-demonforums-net-2/index.html
+Desjardins,Canada,June,"2,900,000.00",Financial,Insider Job,,Personal,https://www.cbc.ca/news/canada/montreal/desjardins-data-breach-explain-1.5185163
+DKLOK,South Korea,August,1.00,Other,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-dklok-leak/
+Docker Hub,United States of America,April,"190,000.00",Tech,Hacked,,Online,https://success.docker.com/article/docker-hub-user-notification
+Dominion National,United States of America,April,"2,964,778.00",Healthcare,Hacked,,PHI,https://www.hipaajournal.com/dominion-national-discovers-9-year-phi-breach/
+DoorDash,United States of America,May,"4,900,000.00",Tech,Third-party,Hacked,Personal,https://blog.doordash.com/important-security-notice-about-your-doordash-account-ddd90ddf5996
+Dow Jones Watchlist,United States of America,February,"2,418,862.00",Hospitality,Third-party,Exposed Database,Personal,https://securitydiscovery.com/dow-jones-risk-screening-watchlist-exposed-publicly/
+EatStreet,United States of America,May,"6,353,564.00",Hospitality,Hacked,,Personal,https://www.zdnet.com/article/eatstreet-food-ordering-service-discloses-security-breach/
+Ecuadorian Citizens,Ecuador,September,"20,800,000.00",Government,Misconfiguration,Exposed Database,Personal,https://www.zdnet.com/article/database-leaks-data-on-most-of-ecuadors-citizens-including-6-7-million-children/
+Electronic Settlements Limited,Nigeria,October,"2,590,000.00",Financial,Misconfiguration,Exposed Database,Financial,https://securitydiscovery.com/paypad/
+Electronic Settlements Limited,Nigeria,February,"8,000,000.00",Financial,Misconfiguration,Exposed Database,Financial,https://securitydiscovery.com/paypad/
+EpicBot,United Kingdom,September,"816,662.00",Web,Hacked,,Online,https://haveibeenpwned.com/PwnedWebsites
+Everybody Edits,United States of America,March,"871,190.00",Web,Hacked,,Online,https://everybodyedits.wordpress.com/2019/03/28/everybody-edits-data-security-breach/
+Facebook,United States of America,September,"419,000,000.00",Tech,Misconfiguration,Exposed Server,Personal,https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/
+Facebook,United States of America,April,"540,000,000.00",Tech,Third-party,Poor Security,Online,https://cyware.com/news/almost-540-million-facebook-user-records-left-exposed-on-amazon-cloud-servers-3c79aed9
+FamilaFacil,Spain,August,"551,587.00",Web,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/home-and-family-job-search-engine-exposed-its-database/
+Federal Emergency Management Agency (FEMA),United States of America,March,"2,300,000.00",Government,Oops,,Financial,https://www.oig.dhs.gov/sites/default/files/assets/2019-03/OIG-19-32-Mar19.pdf
+First American Corporation,United States of America,May,"885,000,000.00",Financial,Misconfiguration,Application Security,Financial,https://krebsonsecurity.com/2019/05/first-american-financial-corp-leaked-hundreds-of-millions-of-title-insurance-records/
+Flash Flash Revolution,United States of America,July,"1,858,124.00",Gaming,Hacked,,Personal,http://www.flashflashrevolution.com/ffr/information-breach/
+Flipboard,United States of America,May,"145,000,000.00",Tech,Hacked,,Online,https://about.flipboard.com/support-information-incident-May-2019/
+Fortnite,United States of America,January,"200,000,000.00",Gaming,Misconfiguration,Web Application (XSS),Online,https://research.checkpoint.com/hacking-fortnite/
+Freedom Mobile,Canada,April,"1,500,000.00",Telecoms,Misconfiguration,Exposed Database,Financial,https://www.vpnmentor.com/blog/report-freedom-mobile/
+GameSalad,United States of America,February,"1,506,242.00",Web,Hacked,,Online,https://www.zdnet.com/article/round-4-hacker-returns-and-puts-26mil-user-records-for-sale-on-the-dark-web/
+Garmin,South Africa,September,1.00,Retail,Hacked,,Financial,https://cyware.com/news/garmin-south-africa-data-breach-results-in-compromise-of-customers-personal-data-7f34d9fd
+Gartner,United States of America,August,"155,000,000.00",Tech,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/gartners-legacy-system-exposed-online/
+GateHub,United Kingdom,june,"1,408,078.00",Web,Hacked,,Financial,https://gatehub.net/blog/gatehub-update-investigation-continues/
+Gearbest,China,March,"1,500,000.00",Web,Misconfiguration,Exposed Database,Financial,https://www.vpnmentor.com/blog/gearbest-hack/
+Geisinger Health Plan,United States of America,July,1.00,Healthcare,Third-party,Phishing,PHI,https://www.hipaajournal.com/geisinger-health-plan-notifies-members-about-business-associate-phishing-attack/
+Gekko Group,France,November,"1,000,000.00",Hospitality,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-accorhotels-leak/
+Georgia Tech,United States of America,April,"1,300,000.00",Education,Hacked,,Personal,https://twitter.com/AkshaySharmaUS/status/1113082155435986945?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1113082155435986945&ref_url=https%3A%2F%2Fwww.wsbtv.com%2Fnews%2Flocal%2Fgeorgia-tech-says-data-breach-exposes-information-from-13-million-people%2F936316583
+Groupe Phosphore - Henrri,France,October,"27,286.00",Web,Misconfiguration,Exposed Database,Financial,https://www.vpnmentor.com/blog/report-groupe-phosphore-leak/
+Groupe Phosphore - Rivalis,France,October,"339,787.00",Web,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-groupe-phosphore-leak/
+Health sciences Authority,Singapore,March,"808,201.00",Healthcare,Third-party,Exposed Database,PHI,https://www.todayonline.com/singapore/personal-data-808000-blood-donors-compromised-nine-weeks-hsa-lodges-police-report
+Honda Motor Company,Japan,July,"134,000,000.00",Automobile,Misconfiguration,Exposed Database,Company data,https://rainbowtabl.es/2019/07/31/honda-motor-company-leak/
+Honda Motor Company,United States of America,December,"26,000.00",Automobile,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/honda-exposes-vehicle-owner-records-on-the-web/
+Hookers.nl,Netherlands,October,"290,955.00",Web,Hacked,Patch Management,Online,https://www.forbes.com/sites/thomasbrewster/2019/10/10/dutch-prostitution-site-hookersnl-hacked--250000-users-data-leaked/#372a098922f8
+Hostinger,Lithuania,August,"14,000,000.00",Web,Hacked,,Online,https://www.hostinger.com/blog/security-incident-what-you-need-to-know/
+Hy-vee,United States of America,August,"5,300,000.00",Hospitality,Hacked,,Financial,https://www.hy-vee.com/corporate/news-events/announcements/notice-of-payment-card-data-incident/
+Immediata Health Group,Puerto Rico,January,"1,500,000.00",Healthcare,Misconfiguration,Web Application,PHI,https://portal.inmediata.com/patients-of-data-security-incident/
+India Government Healthcare Agnecy,India,March,"12,500,000.00",Healthcare,Misconfiguration,Exposed Database,PHI,https://securitydiscovery.com/large-privacy-breach-in-india/
+Indian Citizens,India,May,"275,265,298.00",Web,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/database-with-millions-of-indian-personal-records-exposed-and-hijacked/
+ixigo,India,January,"17,204,697.00",Web,Hacked,,Personal,https://techcrunch.com/2019/02/14/hacker-strikes-again/
+Jana Cash,India,May,"2,600,000.00",Financial,Third-party,Exposed Database,Financial,https://securitydiscovery.com/jana-bank-data-leak/
+Jcrush,United States of America,May,"200,000.00",Tech,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-jcrush/
+Justdial,India,April,"100,000,000.00",Tech,Misconfiguration,Unsecure API,Personal,https://www.bankinfosecurity.asia/researcher-justdial-leaks-information-on-100-million-users-a-12385
+K12.com,United States of America,June,"6,988,504.00",Education,Misconfiguration,Exposed Database,Personal,https://www.comparitech.com/blog/vpn-privacy/report-7-million-student-records-exposed-by-k12-com/
+kent State University,United States of America,September,"3,000.00",Education,Hacked,,Personal,http://www.kentwired.com/latest_updates/article_f8e73956-e587-11e9-b613-9394e83236a4.html
+La Poste,France,November,"23,000,000.00",Government,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-laposte-leak/
+Labcorp,United States of America,February,"7,700,000.00",Healthcare,Third-party,Hacked,PHI,https://www.sec.gov/Archives/edgar/data/920148/000119312519165091/d757830d8k.htm
+Ladders,United States of America,May,"13,000,000.00",Web,Misconfiguration,Exposed Database,Personal,https://cyware.com/news/job-portal-ladders-exposed-profiles-of-13-million-job-seekers-thanks-to-an-unprotected-aws-elasticsearch-database-1b7d7474
+Landmark White,Australia,May,"270,000.00",Retail,Insider Job,,Personal,https://www.9news.com.au/national/it-contractor-could-face-jail-over-data-breach-affecting-270000-people-sydney-news/c6007a3e-b637-4156-a38c-553a206786a4
+Leadership for Educational Equity (LEE),United States of America,July,"3,690,000.00",Other,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/leadership-for-educational-equity/
+Libreria Porrua,Mexico,July,"1,018,997.00",Web,Misconfiguration,Exposed Database,Financial,https://www.comparitech.com/blog/vpn-privacy/libreria-porrua-database-leak/
+LifeLabs,Canada,November,"15,000,000.00",Healthcare,Hacked,,PHI,https://www.newswire.ca/news-releases/lifelabs-releases-open-letter-to-customers-following-cyber-attack-889534499.html
+LightInTheBox,China,November,1.00,Web,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-lightinthebox-leak./
+Lion Group,Malaysia,September,"30,000,000.00",Airline,Insider Job,,Personal,https://www.reuters.com/article/us-lionair-leak/malindo-air-says-data-leak-caused-by-ex-staffers-at-contractor-firm-idUSKBN1W80DT
+"Love, Bonito",Singapore,December,1.00,Web,Hacked,Malicious Scripts,Financial,https://mothership.sg/2019/12/love-bonitos-data-breach/
+Lumin PDF,United States of America,April,"15,453,048.00",Web,Hacked,,Online,https://www.zdnet.com/article/data-of-24-3-million-lumin-pdf-users-shared-on-hacking-forum/
+Luscious,United States of America,August,"1,200,000.00",Web,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-luscious-data-breach/
+Macy,United States of America,October,1.00,Retail,Hacked,Malicious Scripts,Financial,https://techcrunch.com/2019/11/19/macys-said-hackers-stole-customer-credit-cards-again/
+Mastercard Priceless Specials,Germany,August,"89,388.00",Financial,Hacked,,Financial,https://www.spiegel.de/netzwelt/web/mastercard-datenleck-bei-bonusprogramm-a-1282697.html
+Medicare Supplement.com,United States of America,May,"5,000,000.00",Healthcare,Misconfiguration,Exposed Database,Personal,https://www.comparitech.com/blog/information-security/medicare-supplement-data-breach/
+Medico,United States of America,July,"307,139.00",Healthcare,Third-party,Exposed Database,Personal,https://www.databreaches.net/hipaa-nightmare-an-it-vendors-error-left-more-than-300000-files-with-protected-health-information-exposed/
+Methodist HospitalS,United States of America,June,"68,039.00",Healthcare,Hacked,,PHI,https://www.databreaches.net/in-methodist-hospitals-notifies-68039-after-two-employees-fall-for-phishing-attack/
+Mindjolt,United States of America,March,"28,364,826.00",Web,Hacked,,Online,https://www.zdnet.com/article/a-hacker-has-dumped-nearly-one-billion-user-records-over-the-past-two-months/
+Minehut,United States of America,May,"396,533.00",Web,Hacked,,Online,https://haveibeenpwned.com/PwnedWebsites
+Ministry of Health (Singapore),Singapore,January,"14,200.00",Healthcare,Insider Job,,PHI,https://www.moh.gov.sg/news-highlights/details/unauthorised-possession-and-disclosure-of-information-from-hiv-registry
+MixCloud,United Kingdom,November,"21,000,000.00",Web,Hacked,,Online,https://techcrunch.com/2019/11/29/mixcloud-data-breach/
+Mountberg Limited Casinos,Cyprus,January,"108,000,000.00",Web,Misconfiguration,Exposed Database,Personal,https://www.zdnet.com/article/online-casino-group-leaks-information-on-108-million-bets-including-user-details/
+MoviePass,United States of America,May,"161,000,000.00",Web,Misconfiguration,Exposed Database,Financial,https://techcrunch.com/2019/08/20/moviepass-thousands-data-exposed-leak/
+NAIIS,Nigeria,October,"80,000.00",Healthcare,Misconfiguration,Exposed Database,PHI,https://www.wizcase.com/blog/medical-breaches-research/
+Neoclinical,Australia,August,"37,000.00",Healthcare,Misconfiguration,Exposed Database,PHI,https://www.upguard.com/breaches/data-leak-neoclinical-australia-new-zealand
+OnePlus,China,November,1.00,Tech,Hacked,,Personal,https://forums.oneplus.com/threads/security-notification.1144088/
+Operation Intelimost,Belgium,March,"3,073,409.00",Web,Misconfiguration,Exposed Database,Online,https://securitydiscovery.com/massive-spam-operation-uncovered-in-a-database-leak/
+Ordine Avvocati di Roma,Italy,May,"41,960.00",Other,Hacked,,Personal,https://roma.repubblica.it/cronaca/2019/05/07/news/roma_anonymus_viola_la_mail_di_30mila_avvocati_c_e_anche_quella_di_raggi-225675248/
+Orvibo,China,June,"1,000,000.00",Tech,Misconfiguration,Exposed Database,Personal,https://www.forbes.com/sites/daveywinder/2019/07/02/confirmed-2-billion-records-exposed-in-massive-smart-home-device-breach/#cf06dc8411c2
+Orvis,United States of America,October,1.00,Retail,Oops,,Company data,https://krebsonsecurity.com/2019/11/retailer-orvis-com-leaked-hundreds-of-internal-passwords-on-pastebin/
+Panama Citizens,Panama,May,"3,427,396.00",Government,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/panama-citizens-massive-data-breach/
+PayMyTab,United States of America,November,"10,000.00",Web,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-paymytab-leak/
+PDL Customer,United States of America,October,"622,161,052.00",Web,Misconfiguration,Exposed Database,Personal,https://www.troyhunt.com/data-enrichment-people-data-labs-and-another-622m-email-addresses
+Poshmark,United States of America,August,"50,000,000.00",Retail,Hacked,,Personal,https://blog.poshmark.com/2019/08/01/important-security-notice-from-poshmark/
+Pouringpounds,United Kingdom,August,"1,000,000.00",Financial,Misconfiguration,Exposed Database,Personal,https://www.safetydetectives.com/blog/pouringpounds-leak-report/
+PrankDial,United States of America,November,"138,000,000.00",Telecoms,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/prankdial-data-leak/
+Pyramid Hotel Group,United States of America,May,1.00,Hospitality,Misconfiguration,Unsecured Server,Company data,https://www.vpnmentor.com/blog/pyramid-hotel-group-data-leak/
+Quest Diagnostics,United States of America,March,"11,900,000.00",Healthcare,Third-party,Hacked,PHI,https://www.zdnet.com/article/massive-quest-diagnostics-data-breach-impacts-12-million-patients/
+Quickbit,Sweden,July,"300,000.00",Web,Misconfiguration,Exposed Database,Financial,https://www.comparitech.com/blog/vpn-privacy/quickbit-database-leak/
+Russian Citizens,Ukraine,September,"20,000,000.00",Government,Misconfiguration,Exposed Database,Personal,https://www.comparitech.com/blog/vpn-privacy/russian-tax-records-exposed-online/
+SavingStar,United States of America,August,"3,000,000.00",App,Misconfiguration,Exposed Database,Financial,https://www.comparitech.com/blog/vpn-privacy/savingstar-data-leak/
+Sberbank,Russia,October,"18,000,000.00",Financial,Insider Job,,Personal,https://www.sberbank.ru/en/press_center/all/article?newsID=04885252-1561-44c0-8532-2c4f33cd729f&blockID=1539&regionID=77&lang=en&type=NEWS
+Sephora,United States of America,July,"3,200,000.00",Web,Oops,,Online,https://www.zdnet.com/article/sephora-data-breach-hits-southeast-asia-and-anz-customers/
+Sichuan Lianhao Technology Group Co. Ltd (Smart Family Doctor),China,October,"24,000,000.00",Healthcare,Misconfiguration,Exposed Database,PHI,https://www.wizcase.com/blog/medical-breaches-research/
+Social Engineered,United States of America,June,"89,392.00",Web,Hacked,,Personal,https://haveibeenpwned.com/PwnedWebsites
+Sonic Jobs,United Kingdom,October,"29,202.00",Web,Misconfiguration,Exposed Database,Personal,https://www.cisomag.com/recruitment-sites-exposes-250000-resumes-online/
+Stella Prism,United States of America,October,"300,000.00",Healthcare,Misconfiguration,Exposed Database,PHI,https://www.wizcase.com/blog/medical-breaches-research/
+Steps to Recovery,United States of America,March,"145,000.00",Healthcare,Misconfiguration,Exposed Database,PHI,https://rainbowtabl.es/2019/04/19/steps-to-recovery-recovery-addiction-treatment-center-leak/
+StockX,United States of America,July,"7,431,360.00",Web,Hacked,,Personal,https://stockx.com/news/update-on-data-security-issue/
+Suprema,South Korea,August,"28,000,000.00",Tech,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-biostar2-leak/
+T-Mobile,United Kingdom,November,"1,000,000.00",Telecoms,Hacked,,Personal,https://www.t-mobile.com/customers/6305378822?cmpid=CRM_SS_C_SVCMSG_B8OKI9OQH6ZR00CCM50877
+Tech Data Corporation,United States of America,June,1.00,Financial,Misconfiguration,Exposed Database,Financial,https://www.vpnmentor.com/blog/report-tech-data-leak/
+ToonDoo,India,August,"6,002,694.00",Web,Hacked,,Personal,https://www.zataz.com/6-000-000-de-donnees-personnelles-piratees-pour-le-site-toondoo/
+Toyota,Japan,March,"3,100,000.00",Automobile,Hacked,,Personal,https://www.zdnet.com/article/toyota-announces-second-security-breach-in-the-last-five-weeks/
+Transerve,India,February,"458,388.00",Tech,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/delhi-citizens-data-leak/
+TrendMicro,Japan,November,"68,000.00",Tech,Insider Job,,Online,https://blog.trendmicro.com/trend-micro-discloses-insider-threat-impacting-some-of-its-consumer-customers/
+TrueDialog,United States of America,November,"100,000,000.00",Tech,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-truedialog-leak/?=truedialog-exposed-data
+Tu Ora Compass Health,New Zealand,August,"1,000,000.00",Healthcare,Hacked,,PHI,https://www.zdnet.com/article/tu-ora-data-breach-exposes-medical-data-of-one-million-new-zealand-residents/
+Tuft & Needle,United States of America,December,"236,400.00",Retail,Misconfiguration,Exposed Database,Personal,https://techcrunch.com/2019/12/02/tuft-and-needle-exposed-shipping-labels/
+UAB Alabama,United States of America,August,"20,000.00",Healthcare,Hacked,,Personal,https://patch.com/alabama/birmingham-al/uab-data-breach-exposes-information-thousands-patients
+UniCredit,Italy,October,"3,000,000.00",Financial,Hacked,,Online,https://www.unicreditgroup.eu/en/press-media/press-releases/2019/unicredit-2015-data-incident.html
+Universiti Teknologi MARA,Malaysia,January,"1,164,540.00",Education,Hacked,Poor Security,Personal,https://www.thestar.com.my/tech/tech-news/2019/01/30/uitm-threatened-to-improve-websites-or-face-leak
+Facebook,United States of America,December,"267,140,436.00",Web,Misconfiguration,Exposed Database,Online,https://www.comparitech.com/blog/information-security/267-million-phone-numbers-exposed-online/
+US Birth Certificates,United States of America,December,"752,000.00",Government,Misconfiguration,Exposed Database,Personal,https://techcrunch.com/2019/12/09/birth-certificate-applications-exposed/
+US Customers and Border Protection,United States of America,June,"100,000.00",Government,Third-party,Hacked,Personal,https://twitter.com/ericgeller/status/1138185315364069376?s=20
+US Households,United States of America,April,"80,000,000.00",Web,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-millions-homes-exposed/
+Vascepa,United States of America,June,"78,000.00",Healthcare,Misconfiguration,Exposed Database,PHI,https://www.vpnmentor.com/blog/report-vascepa-leak/
+Vedantu,India,July,"686,899.00",Education,Misconfiguration,Exposed Database,Personal,https://www.verdict.co.uk/vedantu-data-breach/
+Veed.io,United Kingdom,November,1.00,Web,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-veed-leak/
+Verifications.io,Estonia,February,"763,117,241.00",Web,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/800-million-emails-leaked-online-by-email-verification-service/
+Verlo Mattress Factory,United States of America,September,"387,604.00",Web,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/verlo-mattress-company/
+Vistaprint,Netherland,November,"51,000.00",Web,Misconfiguration,Exposed Database,Personal,https://techcrunch.com/2019/11/25/vistaprint-security-lapse/
+void.to,United States of America,June,"95,431.00",Web,Hacked,,Personal,https://haveibeenpwned.com/PwnedWebsites
+VoterVoice,United States of America,April,"300,000.00",Government,Misconfiguration,Exposed Database,Personal,https://techcrunch.com/2019/04/04/votervoice-leak/
+web.com,United States of America,August,"22,000,000.00",Web,Hacked,,Personal,https://notice.web.com/
+WeDidIt,United States of America,September,"7,500,000.00",Web,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/wedidit-fundraising-platform/
+Westpac,Australia,June,"98,000.00",Financial,Hacked,,Financial,https://finance.nine.com.au/business-news/westpac-data-breach-100000-australian-customers-at-risk/84c91581-90b6-464e-9137-a2d973492614
+Whirlpool,United States of America,October,"48,000.00",Tech,Misconfiguration,Exposed Database,Personal,https://securitydiscovery.com/whirlpool-exposed-database-with-home-appliances-scan-results/
+Wiener Buchereien,Austria,June,"224,119.00",Web,Hacked,,Personal,https://futurezone.at/digital-life/wiener-buechereien-gehackt-daten-von-77000-nutzern-im-netz/400524190
+Wifi Finder,China,April,"2,000,000.00",App,Misconfiguration,Exposed Database,Personal,https://techcrunch.com/2019/04/22/hotspot-password-leak/
+Wirecard AG,Brazil,April,"4,367,040.00",Tech,Hacked,,Personal,https://blog.weleakinfo.com/wirecard-com-br-data-breach/
+Wizards of the Coast,United States of America,November,"452,634.00",Web,Misconfiguration,Exposed Database,Personal,https://techcrunch.com/2019/11/16/magic-the-gathering-wizards-data-exposure/
+XKCD Forum,United States of America,July,"561,991.00",Tech,Hacked,,Personal,https://thenextweb.com/security/2019/09/02/xkcd-forum-goes-offline-after-discovery-of-data-leak-affecting-562k-members/
+xSocialMedia,United States of America,November,"150,000.00",Tech,Misconfiguration,Exposed Database,Personal,https://www.vpnmentor.com/blog/report-xsocialmedia-leak/
+YouHodler,Cyprus,July,"80,000,000.00",Tech,Misconfiguration,Exposed Database,Financial,https://www.vpnmentor.com/blog/report-youhodler-leak/
+YouNow,United States of America,February,"18,241,518.00",Web,Hacked,,Personal,https://techcrunch.com/2019/02/14/hacker-strikes-again/
+Yves Rocher,Canada,September,"2,500,000.00",Retail,Misconfiguration,Exposed Database,Personal,https://www.infosecurity-magazine.com/news/data-leak-affects-25m-customers/
+Zooville,United States of America,September,"71,407.00",Web,Hacked,Patch Management,Online,https://www.zooville.org/threads/security-incident-and-site-rebuild-september-2019.9/
+Zynga,United States of America,September,"218,000,000.00",Tech,Hacked,,Personal,https://zyngasupport.helpshift.com/a/zynga/?p=all&l=en&s=announcements&f=player-security-announcement
+Wyze,United States of America,December,"2,400,000.00",Tech,Misconfiguration,Exposed Database,Personal,https://blog.12security.com/wyze/
+The Cabinet Office,United Kingdom,December,"1,000.00",Government,Oops,,Personal,https://www.theguardian.com/uk-news/2019/dec/28/government-exposes-addresses-of-new-year-honours-recipients
+Big Asian Data Leak,China,December,"2,700,000,000.00",Web,Misconfiguration,Exposed Database,Online,https://www.comparitech.com/blog/information-security/2-7-billion-email-addresses-exposed-online/
+Posta Electtronica Certificata (PEC),Italy,December,1.00,Web,Misconfiguration,Exposed Database,Online,https://twitter.com/MayhemDayOne/status/1201849601822736386
+Wawa,United States of America,December,1.00,Retail,Hacked,Malware,Financial,https://www.wawa.com/alerts/data-security
+Evite,United States of America,April,"10,000,000.00",Web,Hacked,,Personal,https://www.evite.com/security/update
+Twitter,United States of America,December,"17,000,000.00",Tech,Oops,,Personal,https://techcrunch.com/2019/12/24/twitter-android-bug-phone-numbers/
